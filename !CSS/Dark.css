@@ -1,0 +1,55 @@
+* {
+    scrollbar-color: #464a4c #212324;
+}
+.Link{
+    color: #35D48F        ;
+    text-shadow: 2px 2px 2px #255b4a;
+}
+.nav-item a:hover , .active{
+    color: #aca7ff;
+}
+#Nav{
+    background-color: #297A5B ;
+}
+body{
+    background-color: #212324 !important;
+    color: #aca7a0 !important;
+}
+#Footer{
+    background-color: #255B4A ;
+    color: #212324;
+}
+#Footer textarea,#Footer input{
+    background-color: #409A7D ;
+    color: #e0d5d5;
+}
+
+#cmsNav{
+    background-color: #255b4a;
+}
+
+#project .card a{
+    color: black;
+}
+
+#project .card-footer a{
+    color: #21234f;
+}
+#project .card-footer a:hover{
+    color: #fff  ;
+}
+#lang_sel .dropdown-content a:hover:after{
+    background-color: #297A5B   ;
+}
+#lang_sel .dropdown-content a {
+    color: black;
+}
+#lang_sel .dropdown-content{
+    background-color: #409A7D;
+    border: solid 1px dimgrey;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+#lang_sel .dropbtn {
+    background-color: #409A7D;
+    border: solid 1px dimgrey;
+}

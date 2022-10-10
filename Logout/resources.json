@@ -1,0 +1,11 @@
+{
+  "lang": [
+    "nl",
+    "en"
+  ],
+  "title": "Logout",
+  "admittance": 2,
+  "norder": 10,
+  "login": true,
+  "hidden": false
+}

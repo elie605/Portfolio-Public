@@ -1,0 +1,34 @@
+.nav-item a:hover , .active{
+    color: #ffffff;
+}
+#Nav, #Footer{
+    background-color: #35D48F;
+}
+
+.Link{
+    color: #45494A ;
+}
+#cmsNav{
+    background-color: #9DFBA3 ;
+}
+#project .card a{
+    color: black;
+}
+#project .card-footer a{
+    color: #9DFBA3 ;
+}
+#lang_sel .dropdown-content a:hover:after{
+    background-color: #84FAC7  ;
+}
+#lang_sel .dropdown-content a {
+    color: black;
+}
+#lang_sel .dropdown-content{
+    background-color: #35D48F;
+    border: solid 1px dimgrey;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+#lang_sel .dropbtn {
+    background-color: #35D48F;
+    border: solid 1px dimgrey;
+}
